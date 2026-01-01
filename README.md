@@ -1,4 +1,8 @@
-# CCI Boost: Cell-Cell Interaction Prediction
+# Cell-Cell Interaction Prediction
+
+---
+
+***Bioinfomatics***
 
 ## 📌 Project Overview
 CCI Boost is a machine learning project for predicting cell-cell interactions (CCI) using single-cell RNA sequencing data. The model combines multiple ensemble methods to classify whether pairs of cells interact based on gene expression features and known ligand-receptor pairs.
